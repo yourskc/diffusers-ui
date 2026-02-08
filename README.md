@@ -11,6 +11,9 @@ then run
 
 models.yaml can contain path to locally downloaded model or just a model id from huggingface
 
+The download model will be located at :
+```~/.cache/huggingface/hub/{model name}```
+
 ```
 models:
   - name: stabilityai/stable-diffusion-2-1
