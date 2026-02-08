@@ -17,9 +17,14 @@ The download model will be located at :
 ```
 models:
   - name: stabilityai/stable-diffusion-2-1
-    path: /home/imgen/models/stable-diffusion-2-1  # local path - model won't be downloaded to cache
+    path: ~/models/stable-diffusion-2-1  
+    # local path - model won't be downloaded to cache
   - name: runwayml/stable-diffusion-v1-5
 ```
+Web browser interface :
+
+```0.0.0.0:8080```
+
 
 ![image](https://github.com/noskill/diffusers-ui/assets/733626/59a52234-951a-4f30-8a67-2724ccfbf6f4)
 
