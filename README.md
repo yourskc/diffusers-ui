@@ -6,9 +6,8 @@ gui for stable diffusion from diffusers library
 just install dependancies with   
 ```pip install -r requirements.txt```
 
-then run python3 app.py
-
-pip install -r requirements.txt
+then run 
+```python3 app.py```
 
 models.yaml can contain path to locally downloaded model or just a model id from huggingface
 

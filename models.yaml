@@ -1,5 +1,8 @@
 models:
-  - name: stabilityai/stable-diffusion-2-1
- #   path: /home/imgen/models/stable-diffusion-2-1  # uncomment and set this if you have model on a local path
-  - name: runwayml/stable-diffusion-v1-5
+  # - name: stabilityai/stable-diffusion-2-1
+  # - name: Tongyi-MAI/Z-Image-Turbo  # nvidia memory not enough
+  # - name: stabilityai/stable-diffusion-xl-base-1.0
+  # path: /home/imgen/models/stable-diffusion-2-1  # uncomment and set this if you have model on a local path
+  # - name: runwayml/stable-diffusion-v1-5
+  - name: rupeshs/LCM-runwayml-stable-diffusion-v1-5
 
