@@ -16,10 +16,9 @@ The download model will be located at :
 
 ```
 models:
-  - name: stabilityai/stable-diffusion-2-1
-    path: ~/models/stable-diffusion-2-1  
+  - name: rupeshs/LCM-runwayml-stable-diffusion-v1-5
+    path: ~/models/models--rupeshs--LCM-runwayml-stable-diffusion-v1-5  
     # local path - model won't be downloaded to cache
-  - name: runwayml/stable-diffusion-v1-5
 ```
 Web browser interface :
 
